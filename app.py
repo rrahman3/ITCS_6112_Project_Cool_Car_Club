@@ -87,4 +87,5 @@ def showAll():
 
 
 if __name__ == '__main__':
+    # This is the main function for the application.
     app.run()
